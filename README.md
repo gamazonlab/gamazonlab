@@ -1,5 +1,8 @@
-### Hi there 👋
+### 👋 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+the+Gamazon+Lab)](https://git.io/typing-svg)
 
+- 🔭 We are currently working on Genomics, Multi-omics, Precision Medicine, and Machine Learning.
+- 👨‍💻 You can find out more about our research at our [Vanderbilt University profile](https://my.vanderbilt.edu/ericgamazon/).
+  
 <!--
 **gamazonlab/gamazonlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
