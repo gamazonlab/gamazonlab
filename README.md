@@ -2,7 +2,7 @@
 
 - 🔭 We are currently working on Genomics, Multi-omics, Precision Medicine, and Machine Learning.
 - 👨‍💻 You can find out more about our research at our [Vanderbilt University profile](https://my.vanderbilt.edu/ericgamazon/).
-- 👯 We are a interdisciplinary group with expertise in computational genomics and molecular biology.
+- 👯 We are an interdisciplinary group with expertise in computational genomics and molecular biology.
   
 <!--
 **gamazonlab/gamazonlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
